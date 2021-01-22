@@ -14,8 +14,8 @@ Run.
 
 ## Dependencies
 
-.NET 5
-[NHibernate](https://nhibernate.info/) 
-[FluentNHibernate](https://github.com/nhibernate/fluent-nhibernate)
-[AutoMapper](https://automapper.org/)
-[Swashbuckle](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-5.0&tabs=visual-studio)
+* .NET 5
+* [NHibernate](https://nhibernate.info/) 
+* [FluentNHibernate](https://github.com/nhibernate/fluent-nhibernate)
+* [AutoMapper](https://automapper.org/)
+* [Swashbuckle](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-5.0&tabs=visual-studio)
